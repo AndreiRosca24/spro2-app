@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "930290524196",
+    "firebase_url": "https://motor-test-stand-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "motor-test-stand",
+    "storage_bucket": "motor-test-stand.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930290524196:android:7d946fae1661d9f97878b1",
+        "android_client_info": {
+          "package_name": "com.example.mechprojectdcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzX9HA-aXLfDaSqdwqA4eQSE5xJm7-adU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930290524196:android:85b9ccd4845a16067878b1",
+        "android_client_info": {
+          "package_name": "com.websofthouse.DCMotorTestStand"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzX9HA-aXLfDaSqdwqA4eQSE5xJm7-adU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
